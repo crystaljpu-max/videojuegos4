@@ -1,0 +1,25 @@
+---
+title: "Videojuegos"
+author: "Crystal y Geovani"
+date: "2025-09-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## brawl Star 
+
+Brawl Stars es un videojuego multijugador para móviles desarrollado por la empresa finlandesa Supercell, lanzado globalmente en 2018. Es un juego de arena de batalla en línea (MOBA) donde los jugadores forman equipos y luchan en combates rápidos usando personajes llamados "brawlers", cada uno con habilidades únicas.
+
+El objetivo principal es conseguir trofeos y mejorar a los brawlers compitiendo en diferentes modos de juego, incluyendo partidas 3v3, 5v5 y battle royale. Los jugadores también pueden unirse a clubes, hacer partidas amistosas y crear mapas personalizados. Brawl Stars se destaca por su dinámica rápida, variedad de personajes y modos, y su sistema de progresión basado en trofeos y rangos
+
+
+## STREET FIGHTER
+
+Es un videojuego antiguo que trata de peleas entre personajes con distintas habilidades, este es un juego de estrategia y sumamente de agilidad pero es algo que resaltaba en los 90.
+Street Fighter es una serie de videojuegos de lucha creada por la empresa japonesa Capcom, cuyo primer título se lanzó en 1987. Es uno de los juegos más icónicos y revolucionarios del género de combate. En Street Fighter, dos jugadores controlan a personajes llamados luchadores y compiten en combates uno contra uno, usando una combinación de ataques, movimientos especiales y técnicas defensivas para agotar la barra de vida del oponente.
+
+La franquicia alcanzó gran popularidad con Street Fighter II en 1991, que introdujo la posibilidad de elegir entre varios personajes, cada uno con habilidades y estilos de lucha únicos. Además, fue pionera en implementar el concepto de "combos", que consiste en atacar con una secuencia rápida de golpes que el adversario no puede parar. Street Fighter ha tenido muchas secuelas, versiones y adaptaciones en múltiples plataformas, y sigue siendo un referente en la cultura de los juegos de pelea y los esports a nivel mundial.
+
